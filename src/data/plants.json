@@ -1,0 +1,5 @@
+[
+  { "id": "1", "name": "Monstera", "price": "$25", "desc": "Loves indirect light." },
+  { "id": "2", "name": "Snake Plant", "price": "$15", "desc": "Very hardy and low light." },
+  { "id": "3", "name": "Fiddle Leaf Fig", "price": "$40", "desc": "Needs bright, filtered light." }
+]
