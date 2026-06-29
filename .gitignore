@@ -1,0 +1,20 @@
+# dependencies
+node_modules/
+
+# build outputs
+dist/
+build/
+android/app/build/
+ios/build/
+*.class
+*.exe
+*.apk
+*.aab
+
+# logs
+*.log
+npm-debug.log*
+
+# OS specific
+.DS_Store
+Thumbs.db
